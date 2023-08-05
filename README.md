@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tam Pham
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently studying Computer Science at University of Queensland
+- 🌱 I've graduated from the University of Queensland with a Bachelor of Computer Science degree
 -  :mortar_board: I'm currently looking to expand my software engineering career with different opportunities
 - 📫 You can reach me through my email: tam.minhpham@outlook.com
 
